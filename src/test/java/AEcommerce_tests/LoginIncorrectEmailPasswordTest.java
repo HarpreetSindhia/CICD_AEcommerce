@@ -42,3 +42,5 @@ public class LoginIncorrectEmailPasswordTest extends BaseTest {
 		return new Object[][] {{data.get(0)}};
 	}
 }
+
+//Negative Scenario

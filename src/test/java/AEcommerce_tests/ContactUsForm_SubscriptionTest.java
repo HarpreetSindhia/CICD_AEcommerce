@@ -49,3 +49,4 @@ public class ContactUsForm_SubscriptionTest extends BaseTest {
 		return new Object[][] {{data.get(0)}};
 	}
 }
+//new comments added here
